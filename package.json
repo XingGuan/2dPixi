@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "webpack-dev-server --config webpack.dev.js",
     "clean": "rimraf dist",
-    "prebuild": "npm run clean",
+    "prebuild": "cnpm run clean",
     "build": "webpack --config webpack.prod.js"
   },
   "keywords": [],
@@ -30,10 +30,12 @@
     "url-loader": "^4.1.1",
     "webpack": "^5.65.0",
     "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.2",
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.16.5",
-    "core-js": "^3.20.0"
+    "core-js": "^3.20.0",
+    "webpack-dev-server": "^4.7.2"
   }
 }
