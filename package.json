@@ -24,6 +24,7 @@
     "html-webpack-plugin": "^5.5.0",
     "imagemin-webpack-plugin": "^2.4.2",
     "node-sass": "^7.0.0",
+    "pixi.js": "^6.2.1",
     "rimraf": "^3.0.2",
     "sass-loader": "^12.4.0",
     "style-loader": "^3.3.1",
