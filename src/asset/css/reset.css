@@ -13,3 +13,109 @@
     text-size-adjust: 100% !important;
     -moz-text-size-adjust: 100% !important
 }
+
+/* #content {
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll
+}
+#loading {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    background: #f2f2f2
+}
+
+#loading .loading_main {
+    width: 100%;
+    height: 574px;
+    top: 50%;
+    margin-top: -287px;
+    position: absolute
+}
+
+#loading .loading_main .loading_head {
+    width: 100%;
+    height: 109px;
+    background: url(../img/loading_ball.png) 50% no-repeat;
+    background-size: auto
+}
+
+#loading .loading_main .loading_text {
+    background: url(../img/loading.png) no-repeat -10px -10px;
+    background-size: auto;
+    position: absolute;
+    top: 318px;
+    width: 372px;
+    height: 256px;
+    left: 0px
+}
+
+#loading .loading_main .loading_num {
+    position: absolute;
+    width: 100%;
+    top: 140px;
+    left: 0;
+    text-align: center;
+    display: table
+}
+
+#loading .loading_main .loading_num>div {
+    display: inline-block;
+    background: url(../img/loading.png) no-repeat;
+    background-size: auto;
+    width: 33px;
+    height: 52px
+}
+
+#loading .loading_main .loading_num .num:first-child {
+    display: none
+}
+
+#loading .loading_main .loading_num .n0 {
+    background-position: -73px -286px
+}
+
+#loading .loading_main .loading_num .n1 {
+    background-position: -126px -286px
+}
+
+#loading .loading_main .loading_num .n2 {
+    background-position: -179px -286px
+}
+
+#loading .loading_main .loading_num .n3 {
+    background-position: -232px -286px
+}
+
+#loading .loading_main .loading_num .n4 {
+    background-position: -285px -286px
+}
+
+#loading .loading_main .loading_num .n5 {
+    background-position: -338px -286px
+}
+
+#loading .loading_main .loading_num .n6 {
+    background-position: -402px -10px
+}
+
+#loading .loading_main .loading_num .n7 {
+    background-position: -402px -82px
+}
+
+#loading .loading_main .loading_num .n8 {
+    background-position: -402px -154px
+}
+
+#loading .loading_main .loading_num .n9 {
+    background-position: -402px -226px
+}
+
+#loading .loading_main .loading_num .percent {
+    width: 43px;
+    height: 52px;
+    margin-left: 3px;
+    background-position: -10px -286px
+} */

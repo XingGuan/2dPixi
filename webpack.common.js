@@ -25,9 +25,11 @@ module.exports = {
                     loader: 'url-loader',
                     options: {
                         name: 'asset/img/[name].[ext]',
-                        limit: 2048
+                        limit: 2048,
+                        esModule: false,
                     }
-                }
+                },
+                type: 'javascript/auto',
             },
             {
                 test: /\.scss$/i,
